@@ -8,7 +8,7 @@ While doing Practical Ethical Hacking course from [TCMS Academy](https://academy
 Although that was the main inspiration, this machine is free for use to anyone who wants to practice his Active Directory pentesting skills or have some fun.
 # Installation
 Installation is pretty straight-forward:
-- Download .ova file
+- Download .ova file (https://mega.nz/file/JLkQXRoT#3MA99LOwYMc4Pacft9oJReruMwm81Ukskwy0zqq--tQ)
 - VMWare installation: `Open a new virtual machine` > Select Group.ova
 - VirtualBox installation: `File` > `Import appliance` > Select Group.ova
 - Configure network settings, RAM and CPU and play the machine!
