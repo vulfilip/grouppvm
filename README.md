@@ -13,6 +13,7 @@ Installation is pretty straight-forward:
 - VirtualBox installation: `File` > `Import appliance` > Select Group.ova
 - Configure network settings, RAM and CPU and play the machine!
 
-# Special Thanks for support along the way
-- Dewalt: https://github.com/Dewalt-arch
+# Special Thanks
+- Dewalt - Support along the way: https://github.com/Dewalt-arch
+- imhasin - Tester
 
