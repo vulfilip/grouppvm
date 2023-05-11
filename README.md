@@ -26,10 +26,15 @@ Disk installation:
 (Use this only in case of VMWare not importing the .ova or .ovf files, therefore, instructions are specific to VMWare)
 - Download the disk file,
 - Unzip it
-- Create a new virtual machine, advanced and use existing hard disk
-- Point to the vmdk file
-- Make that disk SATA instead of SCSI (SCSI might cause bluescreen errors when it tries to boot)
-- Select 'Convert' rather than 'Keep existing format'
+- Click "Create a new virtual machine"
+- Select "I will install operating system later" > Next
+- Select "Microsoft Windows", Version: "Windows Server 2012" > Next
+- For Virtual Machine name you can put whatever you want, for example: "Groupp"
+- Set "Maximum disk size" to 10GB, and select "Store virtual disk as a single file". We will remove this disk anyways.
+- Finish
+- After that, click on a newly made virtual machine, click "Edit virtual machine settings", select Hard Disk and click "- Remove".
+- After you remove it, click "+ Add" > Hard Disk > SCSI > Use an existing virtual disk > Select the downloaded .vmdk file > Select "Convert" when the window pops up.
+- You're finished, play the machine and enjoy!
 
 # Special Thanks
 - Dewalt - Support along the way: https://github.com/Dewalt-arch
