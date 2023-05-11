@@ -23,7 +23,7 @@ Installation is pretty straight-forward:
 
 
 Disk installation:
-(Use this only in case of VMWare not importing the .ova or .ovf files, therefore, instructions are specific to VMWare)
+(Use this only in case of VMWare not importing the .ova or .ovf files. Instructions are specific to VMWare)
 - Download the disk file,
 - Unzip it
 - Click "Create a new virtual machine"
