@@ -39,4 +39,9 @@ Disk installation:
 # Special Thanks
 - Dewalt - Support along the way: https://github.com/Dewalt-arch
 - imhasin - Tester
+# Admin Password, in case you need it.
+`SGFubmFobW9udGFuYTEy`
+
+The password is base64 encoded, for spoiler purposes. Decode it to get the password.
+
 
