@@ -35,6 +35,7 @@ Disk installation:
 - After that, click on a newly made virtual machine, click "Edit virtual machine settings", select Hard Disk and click "- Remove".
 - After you remove it, click "+ Add" > Hard Disk > SCSI > Use an existing virtual disk > Select the downloaded .vmdk file > Select "Convert" when the window pops up.
 - You're finished, play the machine and enjoy!
+- Note: If your VM blue screens or freezes, try using SATA instead of SCSI
 
 # Special Thanks
 - Dewalt - Support along the way: https://github.com/Dewalt-arch
